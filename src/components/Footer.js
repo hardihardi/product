@@ -54,7 +54,7 @@ function Footer() {
       </div>
 
       <p className="text-center mt-12">
-        Made With Love By Product All Right Reserved
+        Created By. Hardianto. All Right Reserved.
       </p>
     </div>
   );
